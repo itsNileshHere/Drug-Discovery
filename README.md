@@ -18,7 +18,7 @@ This project presents a comprehensive pipeline for drug discovery targeting the 
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/drug-discovery-sars.git
+git clone https://github.com/itsNileshHere/Drug-Discovery.git
 cd drug-discovery-sars
 ```
 
